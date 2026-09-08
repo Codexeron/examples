@@ -207,18 +207,6 @@ Bu nedenle oluşturduğunuz projeler varsayılan olarak cihazınızdaki tarayıc
 
 > **Not:** Tarayıcı verilerinin temizlenmesi veya `localStorage` verilerinin silinmesi durumunda kayıtlı projeler kaybolabilir.
 
----
-
-## 📸 Ekran Görüntüleri
-
-Projenizin GitHub sayfasında daha iyi görünmesi için buraya ekran görüntüleri ekleyebilirsiniz.
-
-Örnek:
-
-```markdown
-## 📸 Screenshots
-
-![Web Playground](screenshots/web-playground.png)
 ```
 
 Önerilen klasör yapısı:
